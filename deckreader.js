@@ -487,3 +487,5 @@ function masterFunction(string) {
   drawTable(arrayDisplay);
   colorTable();
 }
+
+//hello james you're on github
